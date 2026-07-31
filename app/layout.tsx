@@ -34,6 +34,7 @@ export default function RootLayout({
           <Link href="/about">About</Link>
           <Link href="/project">Project</Link>
           <Link href="/project/description">Description</Link>
+          <Link href="/users">Users</Link>
         </nav>
         <div className="outline outline-red-400">
             {children}
